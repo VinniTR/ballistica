@@ -188,6 +188,9 @@ class ShouldShatterMessage:
 
     Category: **Message Classes**
     """
+    
+    extreme: bool
+    """Shatter the object extremely."""
 
 
 @dataclass
